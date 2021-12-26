@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/findname/static/css/main.a231dbee.css",
+    "main.js": "/findname/static/js/main.15bbda38.js",
+    "static/media/Thinking.png": "/findname/static/media/Thinking.172659e7ab4477f84969.png",
+    "index.html": "/findname/index.html",
+    "main.a231dbee.css.map": "/findname/static/css/main.a231dbee.css.map",
+    "main.15bbda38.js.map": "/findname/static/js/main.15bbda38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a231dbee.css",
+    "static/js/main.15bbda38.js"
+  ]
+}
